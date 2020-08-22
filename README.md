@@ -1,1 +1,1 @@
-# machine-learning-handbook
+# Rules of Machine Learning
